@@ -1,0 +1,98 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home view matches snapshot 1`] = `
+<DocumentFragment>
+  <div
+    class="layout"
+  >
+    <main
+      class="content"
+    >
+      <h1
+        class="title"
+      >
+        <span>
+          Welcome to 
+          <a
+            href="https://nextjs.org"
+          >
+            Next.js!
+          </a>
+        </span>
+      </h1>
+      <p
+        class="description"
+      >
+        Start building your Next project!
+      </p>
+      <button>
+        Test Button
+      </button>
+      <div
+        class="grid"
+      >
+        <a
+          class="card"
+          href="https://nextjs.org/docs"
+        >
+          <h3>
+            Documentation 📄
+          </h3>
+          <p>
+            Find in-depth information about Next.js features and API.
+          </p>
+        </a>
+        <a
+          class="card"
+          href="https://nextjs.org/learn"
+        >
+          <h3>
+            Learn 💡
+          </h3>
+          <p>
+            Learn about Next.js in an interactive course with quizzes!
+          </p>
+        </a>
+        <a
+          class="card"
+          href="https://github.com/vercel/next.js/tree/master/examples"
+        >
+          <h3>
+            Examples 🧩
+          </h3>
+          <p>
+            Discover and deploy boilerplate example Next.js projects.
+          </p>
+        </a>
+        <a
+          class="card"
+          href="https://vercel.com/import?filter=next.js"
+        >
+          <h3>
+            Deploy ✨
+          </h3>
+          <p>
+            Instantly deploy your Next.js site to a public URL with Vercel.
+          </p>
+        </a>
+      </div>
+    </main>
+    <footer
+      class="footer"
+    >
+      <a
+        href="https://vercel.com"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        Powered by 
+        <img
+          alt="Vercel Logo"
+          class="logo"
+          src="/vercel.svg"
+        />
+      </a>
+    </footer>
+  </div>
+</DocumentFragment>
+`;
